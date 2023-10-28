@@ -53,4 +53,3 @@ We acknowledge and thank the open-source community, data providers, and healthca
 Enjoy exploring this project and assessing your risk of heart disease!
 
 For questions or feedback, please contact [Srikar Veluvali].
-```
