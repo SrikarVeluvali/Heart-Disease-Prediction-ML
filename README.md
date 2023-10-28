@@ -14,7 +14,7 @@ We begin by exploring and analyzing the dataset, gaining insights into the relat
 To get started with this project, you will need to clone this repository to your local machine. You can do so using the following command:
 
 ```bash
-git clone https://github.com/yourusername/Heart-Disease-Prediction-ML.git
+git clone https://github.com/SrikarVeluvali/Heart-Disease-Prediction-ML.git
 
 ```
 
